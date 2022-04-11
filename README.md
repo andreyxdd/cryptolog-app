@@ -1,3 +1,8 @@
 # Cryptolog App
 
-A simple web-app displaying some info on the most popular crypto currencies.
+A simple web-app listing some statistics on the most popular crypto-currencies.
+
+Created with:
+ - React
+ - Redux Toolkit
+ - Ant Design
